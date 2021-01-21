@@ -27,13 +27,12 @@ export default function App() {
         </Header>
       <Body>
         <Switch>
-          <Route path="/EcoRenda/" component={ViewHome} exact/>
-          <Route path="/" component={ViewHome} exact/>
           <Route path="/buscar" component={ViewBusca} exact />
           <Route path="/entrar" component={ViewEntrar} exact />
           <Route path="/error" component={ViewError} />
           <Route path={`/user`} component={UserHome} exact />
           <Route path="/perfil" component={UserPerf} exact />
+          <Route path="/" component={ViewHome} />
         </Switch>
       </Body>
     </div>
