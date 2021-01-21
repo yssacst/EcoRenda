@@ -12,9 +12,11 @@ export default function FormBuscar(props) {
                         <div className="input-group mb-3">
                             <select className="custom-select" id="material">
                                 <option selected>Escolher...</option>
-                                <option value="1">Um</option>
-                                <option value="2">Dois</option>
-                                <option value="3">Três</option>
+                                <option value="1">Papel</option>
+                                <option value="2">Plástico</option>
+                                <option value="3">Vidro</option>
+                                <option value="4">Madeira</option>
+                                <option value="5">Alumínio</option>
                             </select>
                         <div className="input-group-append">
                             <label className="input-group-text bg-secondary text-light" >Material</label>
@@ -25,9 +27,9 @@ export default function FormBuscar(props) {
                         <div className="input-group mb-3">
                             <select className="custom-select" id="regiao">
                                 <option selected>Escolher...</option>
-                                <option value="1">Rua dos Bobos</option>
-                                <option value="2">bla bla bla</option>
-                                <option value="3">arerebaba</option>
+                                <option value="1">Jd. Nova Era</option>
+                                <option value="2">Marco II</option>
+                                <option value="3">Comendador Soares</option>
                             </select>
                         <div className="input-group-append">
                             <label className="input-group-text bg-secondary text-light " >Região</label>
@@ -43,7 +45,7 @@ export default function FormBuscar(props) {
                             </select>
 
                         <div className="input-group-append">
-                            <label className="input-group-text bg-secondary text-light" >categoria</label>
+                            <label className="input-group-text bg-secondary text-light" >Categoria</label>
                         </div>
                         </div>
                         <div className="input-group-append">
