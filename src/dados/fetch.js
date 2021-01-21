@@ -1,5 +1,5 @@
 export async function getApi() {
-    const url = 'http://localhost:4000/catadores'
+    const url = 'https://ecorendaapi.herokuapp.com/catadores'
     const response = await fetch(url)
     const dados = await response.json()
 
@@ -7,7 +7,7 @@ export async function getApi() {
 }
 
 export async function getUser(params) {
-    const url = `http://localhost:4000/catadores/email=${params}`
+    const url = `https://ecorendaapi.herokuapp.com/catadores/email=${params}`
     const response = await fetch(url)
     const dados = await response.json()
 
