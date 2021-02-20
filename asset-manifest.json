@@ -1,22 +1,31 @@
 {
   "files": {
-    "main.css": "/EcoRenda/static/css/main.ad04f41a.chunk.css",
-    "main.js": "/EcoRenda/static/js/main.cae45a08.chunk.js",
-    "main.js.map": "/EcoRenda/static/js/main.cae45a08.chunk.js.map",
-    "runtime-main.js": "/EcoRenda/static/js/runtime-main.2ce650b6.js",
-    "runtime-main.js.map": "/EcoRenda/static/js/runtime-main.2ce650b6.js.map",
-    "static/js/2.c8f95d06.chunk.js": "/EcoRenda/static/js/2.c8f95d06.chunk.js",
-    "static/js/2.c8f95d06.chunk.js.map": "/EcoRenda/static/js/2.c8f95d06.chunk.js.map",
-    "index.html": "/EcoRenda/index.html",
-    "static/css/main.ad04f41a.chunk.css.map": "/EcoRenda/static/css/main.ad04f41a.chunk.css.map",
-    "static/js/2.c8f95d06.chunk.js.LICENSE.txt": "/EcoRenda/static/js/2.c8f95d06.chunk.js.LICENSE.txt",
-    "static/media/ecorenda.png": "/EcoRenda/static/media/ecorenda.05dc632c.png",
-    "static/media/person.png": "/EcoRenda/static/media/person.e7ae4861.png"
+    "main.css": "/static/css/main.79eedbda.chunk.css",
+    "main.js": "/static/js/main.82256d6e.chunk.js",
+    "main.js.map": "/static/js/main.82256d6e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3ac52451.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3ac52451.js.map",
+    "static/css/2.93ca0c39.chunk.css": "/static/css/2.93ca0c39.chunk.css",
+    "static/js/2.b58c4fe8.chunk.js": "/static/js/2.b58c4fe8.chunk.js",
+    "static/js/2.b58c4fe8.chunk.js.map": "/static/js/2.b58c4fe8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.93ca0c39.chunk.css.map": "/static/css/2.93ca0c39.chunk.css.map",
+    "static/css/main.79eedbda.chunk.css.map": "/static/css/main.79eedbda.chunk.css.map",
+    "static/js/2.b58c4fe8.chunk.js.LICENSE.txt": "/static/js/2.b58c4fe8.chunk.js.LICENSE.txt",
+    "static/media/ecorenda.png": "/static/media/ecorenda.05dc632c.png",
+    "static/media/home1.c1b18a6a.jpeg": "/static/media/home1.c1b18a6a.jpeg",
+    "static/media/home2.b724b60e.jpeg": "/static/media/home2.b724b60e.jpeg",
+    "static/media/home3.74eaab93.jpeg": "/static/media/home3.74eaab93.jpeg",
+    "static/media/home4.c58d5c4c.jpeg": "/static/media/home4.c58d5c4c.jpeg",
+    "static/media/home5.23c7c339.jpeg": "/static/media/home5.23c7c339.jpeg",
+    "static/media/home9.a06423ff.jpeg": "/static/media/home9.a06423ff.jpeg",
+    "static/media/person.png": "/static/media/person.e7ae4861.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ce650b6.js",
-    "static/js/2.c8f95d06.chunk.js",
-    "static/css/main.ad04f41a.chunk.css",
-    "static/js/main.cae45a08.chunk.js"
+    "static/js/runtime-main.3ac52451.js",
+    "static/css/2.93ca0c39.chunk.css",
+    "static/js/2.b58c4fe8.chunk.js",
+    "static/css/main.79eedbda.chunk.css",
+    "static/js/main.82256d6e.chunk.js"
   ]
 }
